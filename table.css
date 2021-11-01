@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+}
+table{
+    font-family:'Helvetica Neue';
+    color:rgb(0, 0, 0)
+}
+
+table, td {
+    border: 1px rgb(0, 0, 0);
+    padding: 6px 12px;
+}
+
+.top {
+    background-color: rgb(64, 112, 96);
+}
+
+.bottom {
+    background-color: rgba(64, 112, 96, 0.418);
+}
