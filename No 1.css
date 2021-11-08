@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+    height: 180px;
+    width: 350px;
+    border-style: solid;
+    border-color: rgb(80, 145, 125);
+}
